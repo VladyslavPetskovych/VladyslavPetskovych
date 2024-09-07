@@ -7,7 +7,7 @@
 - 💼 Currently working at **[Royal Apart](https://royalapart.online)**
 - 📫 How to reach me: **peckovychv@gmail.com**
 - 🤩 This is my **[resume](https://cvdesignr.com/p/631c49c142151)** 
-- 📓 You can see my **[portfolio](https://josuegarza.dev)** 
+
 
 ## Skills:
 
